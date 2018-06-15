@@ -18,7 +18,7 @@ python hw2_node2vec.py
 ```
 ## LINE
 ```
-python hw2_deepwalk.py
+python hw2_line.py
 ```
 ## TADW
 ```
