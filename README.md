@@ -1,5 +1,5 @@
 # Graph-Embedding
-These are the homework of Advance Machine Learning course in Tsinghua University(2018spring). Here, I implement four network embedding algorithms(deepwalk, node2vec, TADW ,LINE) for two datasets(Cora, Tencent Weibo).
+These are the homeworks of Advance Machine Learning course in Tsinghua University(2018spring). Here, I implemented four network embedding algorithms(deepwalk, node2vec, TADW ,LINE) for two datasets(Cora, Tencent Weibo).
 
 
 # dataset
