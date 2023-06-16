@@ -1,5 +1,4 @@
 # Graph-Embedding
-[![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
 
 
 These are the homeworks of Advance Machine Learning course in Tsinghua University(2018spring). Here, I implemented four network embedding algorithms(deepwalk, node2vec, TADW ,LINE) for two datasets(Cora, Tencent Weibo).
